@@ -1,0 +1,12 @@
+footer{
+    background-color: rgb(56, 0, 0) !important;
+}
+
+footer h5{
+    color: #fff !important;
+}
+
+.link-secondary{
+    color: #fff !important;
+    text-decoration: none;
+}
